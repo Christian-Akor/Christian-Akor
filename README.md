@@ -1,4 +1,4 @@
-# Hi, I'm Christ ! 👋
+# Hi, I'm Chris ! 👋
 
 ## About Me
 
