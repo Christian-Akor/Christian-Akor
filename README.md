@@ -1,4 +1,4 @@
-# Hi, I'm Christian Akor! 👋
+# Hi, I'm Christ ! 👋
 
 ## About Me
 
@@ -6,8 +6,7 @@ I'm a passionate software developer with a keen interest in building innovative 
 curiosity to understand how things work behind the scenes, and it has evolved into a fulfilling career.
 
 ### My Expertise 👀
-I specialize in full-stack web development and mobile app development. I have hands-on experience with languages and frameworks such as:
-HTML, CSS, JavaScript.
+I specialize in full-stack web development and mobile app development. I have hands-on experience with languages and frameworks.
 
 ### My Goals 🌱
 I'm driven by the desire to create user-friendly applications that solve real-world problems and to contribute to open-source projects. 
